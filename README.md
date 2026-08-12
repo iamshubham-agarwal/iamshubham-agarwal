@@ -4,11 +4,11 @@
 
 ### 🚀 Building practical digital products with Web, Python, AI & Automation
 
-I enjoy turning ideas into useful applications, automation workflows and
-clean digital experiences.
+I build practical tools, automation workflows and digital experiences
+that turn ideas into useful products.
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-111111?style=for-the-badge)](https://iamshubham-agarwal.github.io/Professional-portfolio/)
-[![GitHub](https://img.shields.io/badge/GitHub-iamshubham--agarwal-181717?style=for-the-badge&logo=github)](https://github.com/iamshubham-agarwal)
+[![GitHub](https://img.shields.io/badge/GitHub-iamshubham--agarwal-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamshubham-agarwal)
 
 </div>
 
@@ -18,8 +18,8 @@ clean digital experiences.
 
 - 💻 Building and experimenting with **web applications, Python tools and automation workflows**
 - 🤖 Exploring practical applications of **AI & Generative AI**
-- ⚙️ Interested in turning repetitive tasks into **simple, useful systems**
-- 🚀 Focused on projects that solve **real-world problems**
+- ⚙️ Turning repetitive tasks into **simple and useful systems**
+- 🚀 Focused on building projects that solve **real-world problems**
 - 📚 Continuously learning, improving and experimenting with new technologies
 
 ---
@@ -27,7 +27,7 @@ clean digital experiences.
 ## 🚀 Featured Projects
 
 | Project | Description |
-|---|---|
+|:---|:---|
 | 🌐 **[Professional Portfolio](https://github.com/iamshubham-agarwal/Professional-portfolio)** | Personal portfolio showcasing my experience, skills and projects. |
 | 🧵 **[Threads Vault](https://github.com/iamshubham-agarwal/threads-vault)** | Archive and organize saved Threads content for long-term access. |
 | 📚 **[Threads Library](https://github.com/iamshubham-agarwal/threads-library)** | Explore and manage archived Threads content. |
@@ -58,26 +58,12 @@ clean digital experiences.
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=iamshubham-agarwal&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamshubham-agarwal&layout=compact&hide_border=true&theme=transparent" />
-
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-iamshubham--agarwal.github.io-111111?style=for-the-badge)](https://iamshubham-agarwal.github.io/Professional-portfolio/)
-
-[![GitHub](https://img.shields.io/badge/GitHub-iamshubham--agarwal-181717?style=for-the-badge&logo=github)](https://github.com/iamshubham-agarwal)
-
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-111111?style=for-the-badge)](https://iamshubham-agarwal.github.io/Professional-portfolio/)
+[![GitHub](https://img.shields.io/badge/GitHub-iamshubham--agarwal-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamshubham-agarwal)
 [![X](https://img.shields.io/badge/X-@iDynamoshubham-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/iDynamoshubham)
 
 </div>
