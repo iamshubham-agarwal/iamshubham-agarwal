@@ -2,10 +2,13 @@
 
 # 👋 Hi, I'm Shubham Agarwal
 
-### 🚀 Building practical digital products, automation tools & AI-powered solutions
+### 🚀 Building practical digital products with Web, Python, AI & Automation
 
 I enjoy turning ideas into useful applications, automation workflows and
-clean web experiences.
+clean digital experiences.
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-111111?style=for-the-badge)](https://iamshubham-agarwal.github.io/Professional-portfolio/)
+[![GitHub](https://img.shields.io/badge/GitHub-iamshubham--agarwal-181717?style=for-the-badge&logo=github)](https://github.com/iamshubham-agarwal)
 
 </div>
 
@@ -13,60 +16,37 @@ clean web experiences.
 
 ## 👨‍💻 About Me
 
-- 💻 Interested in **Web Development, Python, Automation & AI**
-- 🤖 Exploring practical applications of **Generative AI and automation**
-- 🌐 Building and experimenting with web-based tools
-- 📚 Constantly learning new technologies and improving existing projects
-- 🚀 Focused on building projects that solve real-world problems
+- 💻 Building and experimenting with **web applications, Python tools and automation workflows**
+- 🤖 Exploring practical applications of **AI & Generative AI**
+- ⚙️ Interested in turning repetitive tasks into **simple, useful systems**
+- 🚀 Focused on projects that solve **real-world problems**
+- 📚 Continuously learning, improving and experimenting with new technologies
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🌐 Professional Portfolio
-Personal professional portfolio showcasing my skills, experience and projects.
-
-**Repository:**  
-`Professional-portfolio`
-
----
-
-### 📚 Udemy Library Pro
-A personal learning/resource management project designed around organizing
-and accessing educational resources efficiently.
-
-**Repositories:**
-- `Udemy-Library-Pro`
-- `Udemy-Library-Pro-v3`
+| Project | Description |
+|---|---|
+| 🌐 **[Professional Portfolio](https://github.com/iamshubham-agarwal/Professional-portfolio)** | Personal portfolio showcasing my experience, skills and projects. |
+| 🧵 **[Threads Vault](https://github.com/iamshubham-agarwal/threads-vault)** | Archive and organize saved Threads content for long-term access. |
+| 📚 **[Threads Library](https://github.com/iamshubham-agarwal/threads-library)** | Explore and manage archived Threads content. |
+| 📖 **[Udemy Library Pro](https://github.com/iamshubham-agarwal/Udemy-Library-Pro)** | Learning and resource management project for organizing educational content. |
+| ⚡ **[Udemy Library Pro v3](https://github.com/iamshubham-agarwal/Udemy-Library-Pro-v3)** | Dashboard-focused evolution of the Udemy Library project. |
+| 🕯️ **[Candles](https://github.com/iamshubham-agarwal/Candles)** | Creative project and experimentation repository. |
 
 ---
 
-### 🧵 Threads Vault
-A project focused on organizing, archiving and working with saved Threads content.
+## 🛠️ Tech Stack
 
-**Repository:**  
-`threads-vault`
-
----
-
-### 📚 Threads Library
-A companion project for managing and exploring archived Threads content.
-
-**Repository:**  
-`threads-library`
-
----
-
-## 🛠️ Technologies & Tools
-
-### Languages
+### Languages & Web
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Development
+### Tools & Platforms
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -78,13 +58,13 @@ A companion project for managing and exploring archived Threads content.
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Statistics
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamshubham-agarwal&show_icons=true&theme=transparent&hide_border=true)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=iamshubham-agarwal&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamshubham-agarwal&layout=compact&theme=transparent&hide_border=true)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamshubham-agarwal&layout=compact&hide_border=true&theme=transparent" />
 
 </div>
 
@@ -94,7 +74,11 @@ A companion project for managing and exploring archived Threads content.
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-iamshubham--agarwal.github.io-111111?style=for-the-badge)](https://iamshubham-agarwal.github.io/Professional-portfolio/)
+
 [![GitHub](https://img.shields.io/badge/GitHub-iamshubham--agarwal-181717?style=for-the-badge&logo=github)](https://github.com/iamshubham-agarwal)
+
+[![X](https://img.shields.io/badge/X-@iDynamoshubham-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/iDynamoshubham)
 
 </div>
 
